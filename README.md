@@ -14,7 +14,7 @@ Through this project, I explored the utilization of static variables, enhancing 
    ```
    git clone git@github.com:dianazinchenko/get_next_line.git
    ```
-2. Go inside the project folder and compile the library
+2. Go inside the project folder
    ```bash
    cd get_next_line
    ```
